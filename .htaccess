@@ -1,0 +1,3 @@
+<Directory "*">
+        FallbackResource /index.html
+</Directory>
