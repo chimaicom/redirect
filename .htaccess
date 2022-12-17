@@ -1,3 +1,3 @@
-<Directory .>
+<Directory "/">
         FallbackResource /index.html
 </Directory>
