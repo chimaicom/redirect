@@ -1,4 +1,4 @@
 <Files "index.cfm">
   ForceType html
   FallbackResource /index.html
-</Location>
+</Files>
