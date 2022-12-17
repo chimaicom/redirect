@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">
+  <head>
+    <meta charset="utf-8">
+    <title>redirect comment</title>
+  </head>
 		<script language="javascript">
 			function getUrlVars() {
 				var vars = {};
@@ -126941,4 +126946,4 @@ alert(sUrlParam);
 			if (sObtCd=='') sUrlParam = 'wiki/Main_Page';
 			location.replace(sLocation+sUrlParam)
 		</script>
-	
+</html>
