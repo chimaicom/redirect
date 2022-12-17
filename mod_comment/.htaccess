@@ -1,4 +1,4 @@
 <Files "dsp_detail.cfm">
   ForceType html
   FallbackResource /index.html
-</Location>
+</Files>
